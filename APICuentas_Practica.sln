@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICuentas_Practica", "APICuentas_Practica\APICuentas_Practica.csproj", "{296E4001-D72A-4DBB-9529-F2F572647100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296E4001-D72A-4DBB-9529-F2F572647100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296E4001-D72A-4DBB-9529-F2F572647100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296E4001-D72A-4DBB-9529-F2F572647100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296E4001-D72A-4DBB-9529-F2F572647100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20B072B6-D944-49F5-BBF0-82F3203CE2B1}
+	EndGlobalSection
+EndGlobal
